@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#	Programme qui va supprimer tous le fichier finnissant par un ~  dans le repertoire courant et c'est sous repertoire
+#	Programme qui va supprimer tous les fichiers finnissant par un ~  dans le repertoire courant et c'est sous repertoire
 #
 #	Exemple de commande : sh SuppFauxFich.sh
 #
